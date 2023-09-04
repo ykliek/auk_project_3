@@ -14,7 +14,14 @@ package part_2;
 
 import java.util.Scanner;
 
+/**
+ * This class demonstrates task 2.2: plain conversation.
+ */
 public class PlainConversation {
+	/**
+	 * This is the main method which contains simple logic of the chatbot.
+	 * @param args Unused.
+	 */
 	public static void main (String[] args) {
 		Scanner scanner = new Scanner(System.in);
 

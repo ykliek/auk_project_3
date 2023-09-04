@@ -14,7 +14,15 @@ package part_3;
 
 import java.util.Scanner;
 
+/**
+ * This class demonstrates task 3.1: usage of several condition factors at
+ * a time
+ */
 public class RockRecommender {
+	/**
+	 * This is the main method which makes use of several condition factors.
+	 * @param args Unused.
+	 */
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 
