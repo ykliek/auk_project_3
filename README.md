@@ -17,7 +17,7 @@ This project demonstrates various Java tasks related to conditional statements, 
     git clone <repository-link>
     ```
 
-2. Navigate to the `project_3` directory.
+2. Navigate to the `auk_project_3` directory.
 
 3. Open the project in your preferred Java IDE.
 
